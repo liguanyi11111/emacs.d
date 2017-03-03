@@ -1,0 +1,25 @@
+ls
+ninjia_tool.sh -2
+ninjia_tool.sh -2
+ninjia_tool.sh -2
+ninjia_tool.sh -2
+ninjia_tool.sh -2
+clear
+ninjia_tool.sh -2
+clear
+git lg
+git st
+git co setup.sh 
+git st
+sdafasd
+ls
+ninjia_tool.sh -2
+ninjia_tool.sh -2
+ninjia_tool.sh -2
+cd ros_wrapper_client/
+ls
+ninjia_tool.sh -2 ulbrain_controler
+ninjia_tool.sh -2 ulbrain_lib
+cd work/ninjia_ws/ninjia/
+ninjia_tool.sh -1 vio
+ninjia_tool.sh -1 vio
