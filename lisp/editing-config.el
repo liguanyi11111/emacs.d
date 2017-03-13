@@ -10,8 +10,7 @@
 (setq show-paren-style 'parentheses)
 ;; 注释
 (global-set-key (kbd "M--") 'comment-dwim)
-;; 行跳转
-(global-set-key (kbd "M-p") 'goto-line)
+;; 行跳转 m-g-g
 ;; 撤销
 (global-set-key (kbd "C-z") 'undo)
 ;;在编辑时删除掉选中单位
