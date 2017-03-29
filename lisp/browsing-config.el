@@ -9,6 +9,12 @@
 ;; enable fuzzy matching
 (setq ido-enable-flex-matching t)
 
+;;; ivy ;;;
+(ivy-mode 1)
+(setq ivy-use-virtual-buffers t)
+(setq enable-recursive-minibuffers t)
+(global-set-key "\C-s" 'swiper)
+
 ;;; ecb ;;;
 (require 'ecb)
 ;; 快速开启快捷键

@@ -23,3 +23,4 @@ ninjia_tool.sh -2 ulbrain_lib
 cd work/ninjia_ws/ninjia/
 ninjia_tool.sh -1 vio
 ninjia_tool.sh -1 vio
+touch main.cc
