@@ -104,4 +104,22 @@
 (require 'ace-jump-mode)
 (define-key global-map (kbd "C-c j") 'ace-jump-mode)
 
+;;; 以root权限打开当前文件 ;;;
+
+(defun sudo-reopen ( ) 
+  "reopen current file with sudo."
+  (setq sudo-file-real-path
+	(replace-regexp-in-string "\n" ""
+				  (shell-command-to-string (concat "readlink -f " buffer-file-truename))
+				  )
+	)
+  (kill-this-buffer)
+  (find-file (concat "/sudo::" sudo-file-real-path))
+  (interactive) 
+  )
+
+(global-set-key (kbd "C-c s u") 'sudo-reopen)
+
+
 (provide 'editing-config)
+
