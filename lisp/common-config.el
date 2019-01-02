@@ -16,8 +16,12 @@
 ;; 允许 dired 递归的删除与拷贝目录
 (setq dired-recursive-copies 'top)
 (setq dired-recursive-deletes 'top)
-;; 关闭tool bar
-(tool-bar-mode 0)
+;; 关闭 tool-bar
+(tool-bar-mode -1)
+;; 关闭 menu-bar
+(menu-bar-mode -1)
+;; 右侧滑动条
+(set-scroll-bar-mode 'right)
 ;; 显示配对括号
 (show-paren-mode 1)
 ;; Yes to y, No to n
