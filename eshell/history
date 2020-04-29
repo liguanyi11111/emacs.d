@@ -24,3 +24,32 @@ cd work/ninjia_ws/ninjia/
 ninjia_tool.sh -1 vio
 ninjia_tool.sh -1 vio
 touch main.cc
+cd ../..
+cd ../../out/
+find -name "camera_client_test"
+adb push ./target/product/shieldtablet/data/nativetest/camera_client_test/camera_client_test /data
+git st
+cd ../../..
+cd ..
+ls
+source my_build.sh 
+ls
+xdg-open tutorial0.html 
+xdg-open tutorial0.html 
+find . -name "Cho*"
+cd work/ninjia_ws/ninjia/
+ls
+find -name "cuda_helper"
+find -name "cuda-helper"
+find -name "helper"
+find . -name "helper"
+find . -name "*helper"
+find . -name "orb"
+find . -name "*orb*"
+find . -name "*helper*"
+find . -name "*cuda*"
+find . -name "*cuda-hlper*"
+find . -name "*cuda-helper*"
+emacs ./closed/orb-detector-matcher/src/orb-cuda-helper.cc
+ls
+exit

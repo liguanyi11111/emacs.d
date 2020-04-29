@@ -1,0 +1,252 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/liguanyi/.emacs.d/" . "lisp/")
+ ("/home/liguanyi/work/tmp_skywalker_ws/skywalker/rover/navigation/" . "src/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/applications/base/" . "camera_service/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/catkin/cmake/" . "platform/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/ninjia_catkin/cmake/" . "Modules/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/ninjia_catkin/" . "cmake/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/applications/android/" . "rover_demo/")
+ ("/home/" . "liguanyi/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/recharge_location/include/" . "io_helper/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/recharge_location/" . "include/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/applications/" . "base/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/" . "librealsense2/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/android_kernel_headers/" . "android-28/")
+ ("/home/liguanyi/work/ninjia_ws/" . "ninjia/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/transformation-provider/" . "src/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/" . "tensor_rt/")
+ ("/home/liguanyi/work/ninjia_ws/ninjia/closed/" . "ninjia_slam/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/" . "base_openvino/")
+ ("/home/liguanyi/work/skywalker_ws/skywalker/" . "applications/")
+ ("/home/liguanyi/work/skywalker_ws/" . "skywalker/")
+ ("/home/liguanyi/work/ninjia_ws/ninjia/common/" . "common_data/")
+ ("/home/liguanyi/work/ninjia_ws/ninjia/" . "common/")
+ ("/home/liguanyi/" . "work/")
+ ("/home/liguanyi/work/" . "skywalker_ws/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/liguanyi/work/skywalker_ws/skywalker/catkin/cmake/"
+ "/home/liguanyi/.emacs.d/lisp/"
+ "/home/liguanyi/work/tmp_skywalker_ws/skywalker/rover/navigation/src/navigation/"
+ "/home/liguanyi/bin/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/applications/base/camera_service/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/librealsense2/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/continuous-integration/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/applications/android/rover_demo/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/applications/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/applications/android/rover_service/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/catkin/cmake/platform/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/ninjia_catkin/cmake/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/ninjia_catkin/cmake/Modules/"
+ "/home/liguanyi/work/skywalker_ws/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/common/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/common/tensor_rt/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/common/data_player/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/glconsole_catkin/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/closed/base_openvino/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/intel-tbb/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/inference-engine_catkin/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu/src/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu/examples/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu/examples/modelio/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu/include/calibu/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu_catkin/"
+ "/home/liguanyi/work/skywalker_ws/devel_linux/"
+ "/home/liguanyi/work/skywalker_ws/build_linux/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/ninjia_catkin/"
+ "/home/liguanyi/work/ninjia_ws/ninjia/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/closed/recharge_location/include/io_helper/"
+ "/home/liguanyi/tmp/clDNN-0.1.0/build/CMakeFiles/"
+ "/home/liguanyi/work/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/glog_catkin/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/glog/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/applications/base/chassis_service/"
+ "/home/liguanyi/work/ninjia_ws/ninjia/common/common_data/"
+ "/home/liguanyi/work/ninjia_ws/ninjia/closed/ninjia_slam/include/ninjia_slam/known_slam/"
+ "/home/liguanyi/work/ninjia_ws/ninjia/closed/ninjia_slam/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/applications/base/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/common/visualization/visualization-utils/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/common/visualization/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/zeromq_catkin/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/common/xrpc/"
+ "/home/liguanyi/"
+ "/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/pangolin/"
+ "/home/liguanyi/work/ninjia_ws/ninjia/rover/rover_engine/include/rover_engine/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/liguanyi/work/" (24233 10587 100677 6000) "tmp/" "test_ws/" "cartographer_ros_ws/" "../" "tools/" "multirobot_coordinator_server/" "gerrit_test/" "./" "tmp_skywalker_ws/" "opencv-3.1.0/" "debug_tool/" "cuda_sample/" "eclipse_workplace/" "ros/" "zed_sample/" "as_workplace/" "ramp_ws/" "skywalker_ws/" "ninjia_ws/" "glog/" "cuda_workplace/" "eclipse_workplace2/" "history_project/" "gantt_project/")
+
+ ("/home/liguanyi/" (24233 24614 165613 581000) ".mozilla/" ".bash_logout" ".gnupg/" "logcat.log" ".gitconfig" "Music/" ".android/" ".kingsoft/" "tmp/" ".ssh/" ".cmake/" ".AndroidStudio2.3/" ".presage/" "../" ".nutstore/" ".ros/" ".rviz/" ".xsession-errors" "imu.txt" ".gradle/" "Public/" "Nutstore Files/" "work/" ".pam_environment" ".config/" ".swt/" ".repoconfig/" ".bashrc" ".local/" ".Xauthority" ".cache/" ".profile" "./" ".gconf/" "Videos/" ".bash_history" "Android/" ".sunpinyin/" ".tgdb/" "Desktop/" "known_log/" ".compiz/" ".eclipse/" "1.txt" "Documents/" "nut_workspace/" ".p4merge/" ".java/" "Downloads/" "Pictures/" ".xinputrc" "camera_service.json" "Templates/" ".cgdb/" "dock/" ".ICEauthority" "bin/" ".dbus/" ".gnome/" ".nv/" ".PyCharmCE2016.3/" ".dmrc" ".sogouinput/" ".pki/" ".sudo_as_admin_successful" ".git-credentials" "ninjia/" ".xsession-errors.old" ".oracle_jre_usage/" ".AndroidStudio3.5/" "python/" "software/" ".docker/" ".emacs.d/" ".m2/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/catkin/cmake/" (24233 11686 341251 671000) "safe_execute_process.cmake" "catkin_package_xml.cmake" "debug_message.cmake" "atomic_configure_file.cmake" "python.cmake" "templates/" "catkin_metapackage.cmake" "toplevel.cmake" "shell.cmake" "../" "em/" "legacy.cmake" "tools/" "catkin_destinations.cmake" "assert.cmake" "env-hooks/" "python_version.py" "list_append_unique.cmake" "list_insert_in_workspace_order.cmake" "catkinConfig.cmake.in" "catkin_add_env_hooks.cmake" "./" "test/" "empy.cmake" "catkin_python_setup.cmake" "parse_package_xml.py" "platform/" "stamp.cmake" "catkin_workspace.cmake" "find_program_required.cmake" "order_paths.py" "parse_arguments.cmake" "list_append_deduplicate.cmake" "Modules/" "interrogate_setup_dot_py.py" "catkin_generate_environment.cmake" "all.cmake" "catkin_package.cmake" "em_expand.cmake")
+
+ ("/home/liguanyi/.emacs.d/lisp/" (24094 49640 423074 16000) "browsing-config.el" "../" "editing-config.el" "./" "coding-config.el" "init-all.el" "common-config.el" "apperance-config.el")
+
+ ("/home/liguanyi/.emacs.d/" (24233 18571 181546 204000) "ac-comphist.dat" "../" "elpa/" "eshell/" "tramp" "./" "ido.last" "scripts/" "auto-save-list/" ".gitignore" "recentf" "init.el" "lisp/" "session.10cf3d44385c810a70156058254755929800000024600079" ".git/")
+
+ ("/home/liguanyi/work/tmp_skywalker_ws/skywalker/rover/navigation/src/navigation/" (24233 11934 609655 335000) "path_manager.cc" "../" "utils/" "planner/" "./" "navigation.cc" "log/" "map_manager.cc" "navigation_flags.cc")
+
+ ("/home/liguanyi/work/tmp_skywalker_ws/skywalker/rover/navigation/" (24233 12907 735638 808000) "../" "./" "CMakeLists.txt" "package.xml" "README" "proto/" "include/" "libs/" "src/")
+
+ ("/home/liguanyi/work/tmp_skywalker_ws/skywalker/rover/navigation/src/" (24233 12816 500939 128000) "test_cost_function.cc" "example_two.cc" "navigation/" "../" "example.cc" "./" "dwa_test.cc" "map_inflate_test.cc" "test.cc" "test_path_and_vel_planner.cc" "navi_log_player.cc" "test_path_speed_planner.cc" "map_test.cc" "astar_test.cc" "test_drive_on_right.cc" "position_detection.cc")
+
+ ("/home/liguanyi/bin/" (24233 9003 760562 297000) "ramp_tool.sh" "845_gdb" "shell_help.sh" "aarch64-linux-android-gdb" "../" "format" "./" "x86_connect" "p4merge" "docker_ninjia_tool.sh" "dataset_tool.sh" "add_extra_data.py" "ninjia_tool.sh" "env_ninjia.sh" "debug_tool.sh" "repo" "env_common.sh" "server_connect" "env_ramp.sh" "845_objcopy" "skywalker_tool.sh")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/applications/base/camera_service/" (24225 36798 485501 957000) "../" "./" "CMakeLists.txt" "package.xml" "include/" "libs/" "conf/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/applications/base/" (24203 62035 817183 93000) "chassis_service/" "Readme" "../" "calib_service/" "chassis_test/" "camera_service/" "./" "auto_charge/" "chassis_wrapper/" "motor_service/" "flags_config/" "sensor_service/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/" (24175 16221 169238 22000) "xvisio_test/" "depth-image-calibration/" "visual_relocalization/" "cvflyby/" "visual_relocalization_dbow/" "robot_toolbox/" "super_point/" "zero-point-ransac/" "imu-processor/" "deep_lcd/" "generic-ransac/" "target_detector/" "orb-detector-matcher/" "../" "integrator/" "apriltags/" "deterministic-initialization/" "pose_graph/" "absolute-camera-pose/" "camera_model/" "icp/" "crp/" "ransac/" "visual-inertial-odometry/" "recharge_location/" "GCNv2/" "scene_segmentation/" "brisk-feature-matcher/" "five-point-ransac/" "./" "line-detector/" "imu_pose_estimate/" "dense-mapping/" "laser-optimizer/" "two-point-ransac/" "apriltag2_catkin/" "vins_pose_graph/" "vio-data-producer/" "numerics-toolbox/" "n-point-mle/" "grid-gen/" "statistics/" "imu_tk/" "base_openvino/" "data_pretreater/" "feature_detector/" "small-scale-ba/" "vins_estimator/" "ninjia_slam/" "calibration_tools/" "sliding-triangulation/" "direct-least-squares-pnp/" "tk1_server/" "feature-tracker/" "sparse-mapping/" "vanishing-point-ransac/" "costmap_2d/" "vins_feature_tracker/" "inflation_manager/" "pmd_test/" "simple-vis-relocalization/" "laser_slam/" "loop-closure/" "segmap/" "affine-klt/" "sm_timing/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/librealsense2/" (24229 27994 868379 762000) "../" "./" "CMakeLists.txt" "package.xml" "include/" "libs/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/continuous-integration/" (24229 24927 451294 755000) "README.md" "../" "./" "pack" "compile" "patchup" "package")
+
+ ("/home/liguanyi/work/skywalker_ws/" (24229 34357 395571 889000) ".android/" "build_betel/" "../" "devel_betel/" "build_falcon/" "devel_falcon/" "install_linux/" "install_falcon/" "./" "analytics.settings" "install_betel/" "skywalker/" "devel_linux/" "build_linux/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/" (24213 23534 607388 670000) "libevent_catkin/" "glconsole_catkin/" "libuvc/" "mantis-vision-sdk/" "nlopt/" "pangolin/" "pangolin_catkin/" "opencv_catkin/" "qp_oases3.2.1/" "librealsense2/" "jsoncpp/" "glog_catkin/" "isam/" "eigen_catkin/" "protobuf/" "libusb_linux/" "../" "inference-engine_catkin/" "qp_oases_catkin/" "ceres_solver_catkin/" "libpython2.7/" "gtsam/" "intel_tbb_catkin/" "g2o/" "libusb_catkin/" "zlib_linux/" "libevent/" "brisk/" "gtest_catkin/" "lsd_opencv/" "cxsparse_catkin/" "zlib_catkin/" "miniglog/" "zeromq_catkin/" "opencv/" "./" "tinyxml_catkin/" "nvidia_cuda_libs/" "inference-engine/" "glconsole/" "minkindr/" "calibu/" "octomap_catkin/" "g2o_catkin/" "ceres-solver/" "protobuf_catkin/" "gtest/" "gflags_catkin/" "pugixml/" "sophus_catkin/" "minizip/" "jsoncpp_catkin/" "boost-cmake/" "boost_catkin/" "doxygen_catkin/" "pugixml_catkin/" "intel-tbb/" "yaml_cpp_catkin/" "yaml-cpp/" "gflags-2.2.2/" "sophus/" "gflags-2.1.0/" "glues/" "minizip_catkin/" "calibu_catkin/" "qt_build/" "lapack_catkin/" "xvisio/" "glues_catkin/" "nlopt_catkin/" "mincurves/" "libnabo/" "cxsparse/" "gmock/" "eigen_checks/" "isam_catkin/" "gtsam_catkin/" "tinyxml/" "libuvc_catkin/" "gmock_catkin/" "pmd/" "glog/" "minkindr_gtsam/" "octomap/" "boost-uuid/" "libnabo_catkin/" "zeromq/" "pointmatcher-ros/" "eigen/" "libusb_android/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/applications/android/rover_demo/" (24206 52986 264769 525000) "gradle/" "local.properties" "../" ".gradle/" "build.gradle" "gradlew.bat" "./" "CMakeLists.txt" "package.xml" "AndroidManifest.xml" "build/" "gradlew" ".gitignore" "libs/" "res/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/applications/android/rover_service/" (24206 51159 587493 280000) "jni/" "local.properties" "obj/" "Version.java.in" "../" "custom_rules.xml" "proguard-project.txt" "project.properties" "build.xml" "./" "CMakeLists.txt" "package.xml" "AndroidManifest.xml" ".gitignore" "gen/" "bin/" "libs/" "res/" "ant.properties" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/rover/" (23994 42311 412236 256000) "rover_application/" "navigation/" "../" "./" "rover_engine/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/catkin/cmake/platform/" (23994 42304 448342 420000) "ubuntu.cmake" "../" "./" "lsb.cmake" "windows.cmake")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/ninjia_catkin/cmake/Modules/" (24147 25989 750684 796000) "FindIsam.cmake" "FindInferenceEngine.cmake" "FindTBB.cmake" "utils.cmake" "FindLibUSB.cmake" "FindRealSense.cmake" "FindPackageHandleStandardArgs.cmake" "FindGtsam.cmake" "FindCUDA.cmake" "../" "FindEigen3.cmake" "FindGLog.cmake" "FindLibNabo.cmake" "FindLibevent.cmake" "Findgflags.cmake" "FindPugiXML.cmake" "CheckCXXSourceCompiles.cmake" "./" "CheckCSourceCompiles.cmake" "FindProtobuf.cmake" "FindCVARS.cmake" "FindZeroMQ.cmake" "FindCXSparse.cmake" "FindNlOpt.cmake" "LibFindMacros.cmake" "FindGFlags.cmake" "FindOpenMP.cmake" "FindOrbbec.cmake" "FindCUDA/" "FindPackageMessage.cmake" "FindLibUvc.cmake" "FindBoostLib.cmake" "FindOpenNI2.cmake" "FindCalibu.cmake" "CMakeParseArguments.cmake")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/ninjia_catkin/cmake/" (24184 40376 564470 289000) "app-version.sh" "EnableCoverageInUnit.cmake" "NinjiaDummyProjects.cmake" "ninjia_catkin-extras.cmake.em" "templates/" "../" "em/" "NinjiaDetectCUDA.cmake" "AndroidTools.cmake" "ndk_dep_builder.pyc" "future_depend-extras.cmake.in" "./" "android.toolchain.cmake" "GlobalNinjiaDefines.cmake" "NinjiaExternalProject.cmake" "NinjiaDetectCUDA.cmake.bak" "android_run_tests.py" "android8.toolchain.cmake" "generate_ndk_import_module.py" "Modules/" "NinjiaSetup.cmake" "ndk-configure-wrapper/" "ndk_dep_builder.py" "CustomizeTools.cmake")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/ninjia_catkin/" (24184 40376 564470 289000) "../" "./" "CMakeLists.txt" "package.xml" "bin/" "libs/" "cmake/" "deb/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/ceres_solver_catkin/" (24040 41194 357924 814000) "../" "./" "CMakeLists.txt" "package.xml" "libs/" "cmake/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/applications/android/" (24088 7570 862991 725000) "rover_demo/" "debug-overlay/" "android-vicalib/" "vio_tester/" "README.md" "../" "android_recorder/" "rover_proto/" "rover_service/" "chassis_native/" "./" "rover_aidl/" "android_sensor/" "android_rover/" ".gitignore" "android_calib/" "rover_sdk/" "android-player/" "platform.keystore" "android_incalib/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/tensor_rt/" (23994 42311 392236 562000) "libs-v304/" "README.md" "../" "./" "CMakeLists.txt" "package.xml" "include/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/" (24171 14965 239296 443000) "tango-client-api/" "exception-handler/" "debug-overlay-msg/" "ros_tool/" "camera_calibration/" "validation-stats-provider/" "common_data/" "named-channel-graph/" "README.md" "ir_camera_calib/" "../" "cuda_toolbox/" "mesh-toolbox/" "movidius-validation/" "plugin/" "tango-client-api-header/" "image-toolbox/" "engine-data/" "sensor-status-monitor/" "event_broadcast/" "data_player/" "visual-inertial-calibration/" "tensor_rt/" "./" "depth-toolbox/" "auto_exposure/" "android_kernel_headers/" "apriltag/" "player-engine/" "pointcloud_toolbox/" "geometry-toolbox/" "chassis_engine/" "image-cache/" "tango-service/" "parameter_provider/" "recorder_application/" "android_system_libs/" "ur_arm_driver/" "tx1_helper/" "transformation-provider/" "xrpc/" "frame-data/" "device-provider/" "path_provider/" "android-location-provider/" "generic/" "tango-service-binder/" "libmoto/" "multi_camera_calibration/" "depth-validation/" "visualization/" "calibration-provider/" "os_utils/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/data_player/" (23994 42306 332314 89000) "../" "./" "CMakeLists.txt" "package.xml" "include/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/glconsole_catkin/" (24167 24568 924095 192000) "../" "./" "CMakeLists.txt" "package.xml")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/base_openvino/" (24159 30754 756699 692000) "../" "test_superpoint/" "models/" "./" "CMakeLists.txt" "package.xml" "vino/" "include/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/intel-tbb/" (24048 40906 683953 540000) "jni/" "README.md" ".gitattributes" "../" "CHANGES" "doc/" "./" "CMakeLists.txt" "README" "build/" "LICENSE" ".gitignore" "include/" "Doxyfile" "examples/" "Makefile" "libs/" "cmake/" "python/" "index.html" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/inference-engine_catkin/" (24147 43302 173575 760000) "../" "./" "CMakeLists.txt" "package.xml")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu/src/" (24147 25803 733950 430000) "../" "target/" "utils/" "CalibuConfig.cmake.in" "./" "CMakeLists.txt" "cam/" "config.h.in" "pose/" "conics/" "CalibuConfigVersion.cmake.in" "image/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu/" (24147 25760 222715 242000) "applications/" "README.md" "../" ".#CMakeLists.txt" "./" "CMakeLists.txt" ".gitignore" "include/" "examples/" "CMakeModules/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu/examples/" (24147 25584 833802 854000) "../" "modelio/" "./" "CMakeLists.txt")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu/include/calibu/" (23994 42299 196417 274000) "../" "target/" "utils/" "Calibu.h" "./" "cam/" "pose/" "conics/" "image/" "calib/" "gl/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu/examples/modelio/" (24147 23635 599523 320000) "main.cpp" "../" "./" "CMakeLists.txt")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/calibu_catkin/" (24147 24504 881269 660000) "../" "./" "CMakeLists.txt" "package.xml")
+
+ ("/home/liguanyi/work/skywalker_ws/devel_linux/" (24147 23800 695603 282000) "build_version" "../" "etc/" "env.sh" "_setup_util.py" "./" "setup.zsh" ".rosinstall" "lib/" "include/" "share/" "setup.bash" "bin/" "setup.sh" ".catkin" "deb/")
+
+ ("/home/liguanyi/work/skywalker_ws/build_linux/" (24147 23794 295749 318000) "glconsole_catkin/" "apriltag2/" "ros_tool/" "pangolin_catkin/" "sensor_status_monitor/" "opencv_catkin/" "common_data/" "numerics_toolbox/" "cvflyby/" "InferenceEngine_catkin/" "deterministic_initialization/" "chassis_service/" "ninjia_catkin/" "navigation/" "map_transport/" "librealsense2/" "glog_catkin/" "robot_toolbox/" "eigen_catkin/" "target_detector/" "../" "ceres_solver_catkin/" "cuda_toolbox/" "integrator/" "rover_proto/" "apriltags/" "boost_uuid/" "intel_tbb_catkin/" "android_location_provider/" "depth_validation/" "libusb_catkin/" "pose_graph/" "plugin/" "ninjia_elevator/" "depth_image_calibration/" "brisk/" "movidius_validation/" "gtest_catkin/" "map_structure/" "lsd_opencv/" "cxsparse_catkin/" "zlib_catkin/" "icp/" "event_broadcast/" "chassis_test/" "crp/" "ransac/" "recharge_location/" "camera_service/" "data_player/" "rover_service/" "bundle_error_terms/" "chassis_native/" "zeromq_catkin/" "./" "tinyxml_catkin/" "imu_pose_estimate/" "nvidia_cuda_libs/" "transformation_provider/" "calibration_provider/" "auto_charge/" "rover_aidl/" "auto_exposure/" "android_kernel_headers/" "geometry_toolbox/" "protobuf_catkin/" "image_cache/" "statistics/" "gflags_catkin/" "cmi_logs/" "sophus_catkin/" "imu_tk/" "pointcloud_toolbox/" "jsoncpp_catkin/" "boost_catkin/" "chassis_engine/" "frame_data/" "pugixml_catkin/" "parameter_provider/" "generic_ransac/" "yaml_cpp_catkin/" "depth_toolbox/" "agast/" "android_system_libs/" "motor_service/" "rover_engine/" "ninjia_slam/" "device_provider/" "debug_overlay_msg/" "calibu_catkin/" "five_point_ransac/" "tx1_helper/" "vp_detect_ransac/" "xrpc/" "catkin_simple/" "flags_config/" "glues_catkin/" "costmap_2d/" "n_point_mle/" "sensor_service/" "visualization_utils/" "ptam/" "isam_catkin/" "gtsam_catkin/" "engine_data/" "named_channel_graph/" "affine_klt/" "two_point_ransac/" "path_provider/" "map_manager/" "scene_graph/" "generic/" "libuvc_catkin/" "small_scale_ba/" "gmock_catkin/" "lgy_test/" "line_detector/" "image_toolbox/" "zero_point_ransac/" "libnabo_catkin/" "validation_stats_provider/" "motion_service/" "sm_timing/" "tensorrt_libs/" "catkin/" "os_utils/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/" (24147 17784 863454 702000) "common/" "applications/" "dockerfiles/" "ninjia_catkin/" "README.md" "../" "tools/" ".gradle/" "3rdparty/" ".gitreview" "./" "modify_lists.md" "closed/" "experimental/" "prebuilt/" ".gitlab-ci.yml" ".gitignore" "setup.sh" "catkin_simple/" "rover/" "continuous-integration/" "build_helper/" ".git/" "catkin/")
+
+ ("/home/" (23992 16255 801170 417000) "liguanyi/" "../" "./")
+
+ ("/home/liguanyi/Desktop/" (24093 22561 64939 818000) "备忘.txt" "../" "总结/" "猎户星空付款报销单据.xlsx" "演示文稿1.pptx" "./" "Pycharm.desktop" "人力安排.xlsx" "报销.zip" "周报" "studio.desktop" "debug.txt" "导航2.0规划" "多机交互方案+导航策略风险.xlsx" "报销/" "eclipse.desktop" "多机交互方案建议描述.ppt" "wps-office-prometheus.desktop")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/recharge_location/include/io_helper/" (24094 44423 328864 754000) "../" "data_loader.h" "./" "generate_simulation.h" "release_container.h" "io_helper_2d.h")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/recharge_location/include/" (24068 36104 560097 50000) "../" "recharge_location/" "./" "io_helper/" "location_ekf/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/recharge_location/" (24092 18418 494863 75000) "README.md" "../" "./" "CMakeLists.txt" "package.xml" "test/" "include/" "visualize/" "src/")
+
+ ("/home/liguanyi/tmp/clDNN-0.1.0/build/CMakeFiles/" (24079 6585 481841 671000) "CMakeError.log" "CMakeRuleHashes.txt" "feature_tests.cxx" "CMakeOutput.log" "../" "progress.marks" ".#CMakeError.log" "TargetDirectories.txt" "./" "CMakeTmp/" "Makefile2" "cmake.check_cache" "feature_tests.c" "3.5.1/" "feature_tests.bin" "CMakeDirectoryInformation.cmake" "Makefile.cmake")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/glog_catkin/" (24049 63082 420983 74000) "../" "./" "CMakeLists.txt" "package.xml" "libs/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/glog/" (24048 49071 728108 469000) "autom4te.cache/" "README.windows" "CONTRIBUTORS" "../" "INSTALL" "NEWS" "COPYING" "ltmain.sh" "doc/" "ChangeLog" "aclocal.m4" "config.sub" "packages/" "config.guess" "Makefile.am" "./" "CMakeLists.txt" "mkinstalldirs" "depcomp" "configure" "configure.ac" "missing" "README" "vsprojects/" "CONTRIBUTING.md" "Makefile.in" "compile" "libglog.pc.in" "test-driver" ".gitignore" "glog-config.cmake.in" "google-glog.sln" "m4/" "install-sh" "cmake/" "AUTHORS" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/applications/base/chassis_service/" (24048 40907 251937 723000) "../" "./" "CMakeLists.txt" "package.xml" "proto/" "include/" "src/")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/common/common_data/" (24022 11351 108359 372000) "../" "./" "CMakeLists.txt" "package.xml" "proto/" "include/" "libs/" "src/")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/closed/ninjia_slam/include/ninjia_slam/known_slam/" (24031 30354 919786 814000) "node_wrapper.h" "constants.h" "../" "known_slam.h" "node_cache.h" "frames_extracter.h" "./" "known_slam_log.h" "laser_node_frame_wrapper.h" "frames_extraction.h" "anchor_map.h" "known_parm.h" "relocate_processor.h" "frame_cache.h" "tmp_reloc_data_saver.h")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/closed/ninjia_slam/" (24039 40812 335055 924000) "../" "./" "CMakeLists.txt" "package.xml" "proto/" "include/" "libs/" "src/")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/" (24038 3603 418249 844000) "common/" "applications/" "ninjia_catkin/" "../" "tools/" "3rdparty/" ".gitreview" "./" "closed/" "README" "experimental/" "prebuilt/" ".gitignore" "setup.sh" "catkin_simple/" "rover/" "continuous-integration/" ".git/" "catkin/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/visualization/visualization-utils/" (24040 58260 792808 811000) "../" "./" "CMakeLists.txt" "package.xml" "include/" "libs/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/visualization/" (23994 42311 400236 439000) "visualization-engine/" "../" "visualization-utils/" "./" "scene-graph/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/zeromq_catkin/" (24040 57113 370553 296000) "../" "./" "CMakeLists.txt" "package.xml" "libs/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/xrpc/" (24040 50411 389860 334000) "../" "./" "CMakeLists.txt" "package.xml" "include/" "libs/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/3rdparty/pangolin/" (23994 42303 440356 788000) "external/" "README.md" "LICENCE" "../" "tools/" "./" "CMakeLists.txt" ".gitignore" "include/" "examples/" "CMakeModules/" "cmake_uninstall.cmake.in" "src/")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/rover/rover_engine/include/rover_engine/" (24038 3329 279224 141000) "rover_engine_flags.h" "motor.h" "../" "vel_low_pass_filter.h" "./" "motor_factory.h" "linux_motor.h" "android_motor.h" "rover_engine.h")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/rover/" (23993 12180 928991 0) "rover_application/" "navigation/" "../" "./" "rover_engine/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/android_kernel_headers/android-28/" (24036 48125 216333 632000) "../" "hardware/" "system/" "./" "frameworks/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/android_kernel_headers/" (24038 1918 551130 865000) "../" "android-19/" "android-23/" "android-28/" "./" "CMakeLists.txt" "package.xml" "libs/" "cmake/" "android-21/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/applications/" (23994 42304 440342 534000) "android/" "../" "base/" "./" "ubuntu_ui/")
+
+ ("/home/liguanyi/work/skywalker_ws/install_linux/" (23995 52583 648528 705000) "../" "./")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/transformation-provider/src/" (23994 42311 392236 562000) "transformation-provider-graph.cc" "../" "transformation-provider.cc" "transformation-provider-vio-monitor.cc" "./" "sliding-integration.cc" "serialization.cc")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/transformation-provider/" (24030 9386 515734 94000) "../" "./" "CMakeLists.txt" "package.xml" "test/" "include/" "test-data/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/event_broadcast/include/event_broadcast/" (23994 42306 352313 782000) "../" "event.h" "./" "common.h" "event_factory.h" "event_broadcast.h" "message_event.h" "event_declaration.h" "report_event.h")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/common/event_broadcast/" (23994 42306 352313 782000) "../" "./" "CMakeLists.txt" "package.xml" "include/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/ninjia_catkin/bin/" (23995 52575 200515 479000) "ninjia_make" "../" "lcov_cobertura.pyc" "./" "lcov_cobertura.py")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/closed/visual_relocalization_dbow/" (24022 11351 104359 441000) "../" "./" "CMakeLists.txt" "package.xml" "test/" "proto/" "include/" "libs/" "data/" "src/")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/closed/visual_relocalization/" (24022 11351 104359 441000) "../" "./" "CMakeLists.txt" "package.xml" "include/" "src/")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/closed/" (23993 12032 751246 0) "depth-image-calibration/" "visual_relocalization/" "cvflyby/" "visual_relocalization_dbow/" "robot_toolbox/" "zero-point-ransac/" "imu-processor/" "generic-ransac/" "orb-detector-matcher/" "../" "integrator/" "deterministic-initialization/" "pose_graph/" "absolute-camera-pose/" "icp/" "ransac/" "visual-inertial-odometry/" "brisk-feature-matcher/" "five-point-ransac/" "./" "line-detector/" "dense-mapping/" "laser-optimizer/" "two-point-ransac/" "vio-data-producer/" "numerics-toolbox/" "n-point-mle/" "grid-gen/" "statistics/" "imu_tk/" "data_pretreater/" "small-scale-ba/" "ninjia_slam/" "sliding-triangulation/" "direct-least-squares-pnp/" "feature-tracker/" "sparse-mapping/" "vanishing-point-ransac/" "costmap_2d/" "simple-vis-relocalization/" "loop-closure/" "affine-klt/" "sm_timing/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/visual_relocalization_dbow/" (24027 24698 777784 693000) "README.md" "../" "./" "CMakeLists.txt" "package.xml" "test/" "proto/" "include/" "data/" "src/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/visual_relocalization_dbow/include/" (24025 5275 201148 288000) "visual_relocalization_dbow/" "visual_relocal_version/" "../" "check_state/" "utils/" "./" "evaluation/" "ninjia_slam/" "autotest/" "dbow3/" "fbow/")
+
+ ("/home/liguanyi/work/skywalker_ws/skywalker/closed/visual-inertial-odometry/" (24025 5274 941152 405000) "../" "./" "CMakeLists.txt" "package.xml" "include/" "visualization/" "src/")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/common/player-engine/" (23993 12388 721871 0) "../" "./" "CMakeLists.txt" "package.xml" "include/" "libs/" ".cproject" "src/" "test_data/")
+
+ ("/home/liguanyi/work/ninjia_ws/ninjia/common/" (23993 12402 349667 0) "tango-client-api/" "exception-handler/" "debug-overlay-msg/" "ros_tool/" "validation-stats-provider/" "common_data/" "named-channel-graph/" "README.md" "../" "cuda_toolbox/" "mesh-toolbox/" "movidius-validation/" "tango-client-api-header/" "image-toolbox/" "engine-data/" "sensor-status-monitor/" "event_broadcast/" "data_player/" "visual-inertial-calibration/" "./" "depth-toolbox/" "auto_exposure/" "android_kernel_headers/" "player-engine/" "pointcloud_toolbox/" "geometry-toolbox/" "image-cache/" "tango-service/" "parameter_provider/" "recorder_application/" "android_system_libs/" "tx1_helper/" "transformation-provider/" "frame-data/" "device-provider/" "path_provider/" "android-location-provider/" "generic/" "tango-service-binder/" "depth-validation/" "visualization/" "calibration-provider/" "os_utils/")
+
+ ("/home/liguanyi/work/ninjia_ws/" (23993 33281 636333 263000) "all_project/" "../" "build_falcon/" ".repo/" "devel_falcon/" "install_linux/" "install_falcon/" "./" "ninjia_internal/" "devel_linux/" "build_linux/" "ninjia/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

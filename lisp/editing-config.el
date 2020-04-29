@@ -70,7 +70,8 @@
       (set-mark (point))
       (insert text)
       (exchange-point-and-mark)
-      (setq deactivate-mark nil)))
+      (setq deactivate-mark nil)
+      ))
    (t
     (let ((column (current-column)))
       (beginning-of-line)
@@ -91,7 +92,8 @@
   "Move region (transient-mark-mode active) or current line
   arg lines up."
   (interactive "*p")
-  (move-text-internal (- arg)))
+  (move-text-internal (- arg))
+  (previous-line))
 
 ;; Mimic Alt-<up> Alt-<down> in Eclipse
 (global-set-key (kbd "M-<up>") 'move-text-up)
