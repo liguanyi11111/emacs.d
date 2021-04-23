@@ -35,11 +35,6 @@
   (push-mark (point) nil t)
   (end-of-line))
 
-(global-set-key (kbd "C-c l") 'mark-line)
-
-;;; 删除整行 ;;;
-(global-set-key (kbd "C-d") 'kill-whole-line)
-
 ;;; 复制当前行到下一行 ;;;
 (defun djcb-duplicate-line (&optional commentfirst)
   "comment line at point; if COMMENTFIRST is non-nil, comment the
@@ -54,8 +49,6 @@
      (concat (if (= 0 (forward-line 1)) "" "\n") str "\n"))
     (forward-line -1)))
 
-;; duplicate a line
-(global-set-key (kbd "C-M-<down>") 'djcb-duplicate-line)
 
 ;;; 移动一行 ;;;
 (defun move-text-internal (arg)
@@ -95,10 +88,6 @@
   (move-text-internal (- arg))
   (previous-line))
 
-;; Mimic Alt-<up> Alt-<down> in Eclipse
-(global-set-key (kbd "M-<up>") 'move-text-up)
-(global-set-key (kbd "M-<down>") 'move-text-down)
-
 
 ;;; ace jump ;;; 
 ;; 一个神奇的跳转方式
@@ -122,6 +111,35 @@
 
 (global-set-key (kbd "C-c s u") 'sudo-reopen)
 
+
+;;; 制作自己的快捷键次要模式，防止被主模式快捷键覆盖 ;;;
+(defvar lgy-keys-minor-mode-map
+  (let ((map (make-sparse-keymap)))
+    ;; 移动
+    (define-key map (kbd "M-i") 'previous-line)
+    (define-key map (kbd "M-k") 'next-line)
+    (define-key map (kbd "M-j") 'backward-char)
+    (define-key map (kbd "M-l") 'forward-char)
+    (define-key map (kbd "C-j") 'backward-word)
+    (define-key map (kbd "C-l") 'forward-word)
+    ;; Mimic Alt-<up> Alt-<down> in Eclipse
+    (define-key map (kbd "M-<up>") 'move-text-up)
+    (define-key map (kbd "M-<down>") 'move-text-down)
+    ;; duplicate a line
+    (define-key map (kbd "C-M-<down>") 'djcb-duplicate-line)
+    ;;; 删除整行 ;;;
+    (define-key map (kbd "C-d") 'kill-whole-line)
+    ;;; 选中整行
+    (define-key map (kbd "C-c l") 'mark-line)
+    map)
+  "lgy-minor-mode keymap")
+
+(define-minor-mode lgy-keys-minor-mode
+  "A minor mode for lgy shortcut-keys"
+  :init-value t
+  :lighter " lgy-keys")
+
+(lgy-keys-minor-mode 1)
 
 (provide 'editing-config)
 
