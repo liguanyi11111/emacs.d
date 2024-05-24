@@ -86,7 +86,8 @@
   arg lines up."
   (interactive "*p")
   (move-text-internal (- arg))
-  (previous-line))
+  ;;(previous-line) 可能是旧版本的bug造成必须这样移动一下才能用，现在已经不再需要了
+  )
 
 
 ;;; ace jump ;;; 
